@@ -15,3 +15,5 @@ Examples:
 'B' and 'g' returns 0
 '0' and '?' returns -1
 ```
+
+Link: https://www.codewars.com/kata/5dd462a573ee6d0014ce715b

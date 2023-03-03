@@ -20,4 +20,4 @@ output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 ```
 
 Link to challenge:
-https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/javascript
+https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa
