@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { solution } from "./1-string-ends-with";
+import { solution } from "./string-ends-with";
 
 describe("Tests", () => {
   it("test", () => {

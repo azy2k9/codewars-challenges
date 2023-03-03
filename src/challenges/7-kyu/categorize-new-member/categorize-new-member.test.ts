@@ -1,5 +1,5 @@
 import { describe, it, assert, chai } from "vitest";
-import { openOrSenior } from "./2-categorize-new-member";
+import { openOrSenior } from "./categorize-new-member";
 chai.config.truncateThreshold = 0;
 
 describe("Basic tests", () => {

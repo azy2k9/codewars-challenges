@@ -1,5 +1,5 @@
 import { describe, chai, assert, it } from "vitest";
-import { sameCase } from "./3-check-same-case";
+import { sameCase } from "./check-same-case";
 chai.config.truncateThreshold = 0;
 
 export function testCheckCase(a: string, b: string, expected: number) {
